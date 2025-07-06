@@ -14,7 +14,6 @@ I'm a **Muslim** and passionate **Application Security** practitioner focusing o
 - ✅ Secure Code Review  
 - 🧬 AI Security (Data & Model Attacks on LLMs)
 
-Currently, I'm **seeking a junior-level AppSec position** where I can apply my technical skills and learn from experienced security professionals. I’m especially interested in environments that embrace continuous learning and practical engagement with real-world vulnerabilities.
 
 ---
 
@@ -60,11 +59,4 @@ Currently, I'm **seeking a junior-level AppSec position** where I can apply my t
 > I approach every challenge in AppSec with resilience and faith.
 
 ---
-
-### 🔎 Featured Repositories
-
-<!-- You can add project highlights here later -->
-
-```diff
-+ Stay tuned for writeups, tools, and LLM security experiments!
 
